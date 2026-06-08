@@ -1,0 +1,6 @@
+{
+  "name": "Todo List",
+  "description": "一个简洁现代、使用蓝色调风格、支持任务分类、优先级及持久化存储的高颜值待办事项管理网页。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
